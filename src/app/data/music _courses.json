@@ -1,0 +1,59 @@
+{
+    "courses":[
+        {
+        "id":1,
+        "title":"Guitar Fundemantals",
+        "slug":"guitar_fundemantals",
+        "description":"Learn the basics of playing Guitar with our coperhansive biggners course.",
+        "price":99.99,
+        "instructor":"john Doe",
+        "isFeatured":true,
+        "image":"https://thumbs.dreamstime.com/b/fife-drum-amd-fiddle-collection-traditional-irish-musical-instruments-dark-gray-background-47401877.jpg"
+
+    },
+    {
+        "id":2,
+        "title":"Piano Fundemantals",
+        "slug":"Piano_fundemantals",
+        "description":"Learn the basics of playing Guitar with our coperhansive biggners course.",
+        "price":99.99,
+        "instructor":"john Doe",
+        "isFeatured":true,
+        "image":"https://media.gettyimages.com/id/186875718/photo/silver-chrome-snare-drum-with-sticks-instrument-on-white-background.jpg?s=612x612&w=gi&k=20&c=GfVoIjGzJSZEpS9vtWGfDJhAke6aN-mmZt-v3ULUrj0="
+
+    },
+    {
+        "id":3,
+        "title":"Dhol Fundemantals",
+        "slug":"Dhol_fundemantals",
+        "description":"Learn the basics of playing Guitar with our coperhansive biggners course.",
+        "price":99.99,
+        "instructor":"john Doe",
+        "isFeatured":true,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5d9LhJ41HMZIGQnXvFjUWRvPem5NkkvXrGg&s"
+
+    },
+    {
+        "id":4,
+        "title":"Guitar Fundemantals",
+        "slug":"guitar_fundemantals",
+        "description":"Learn the basics of playing Guitar with our coperhansive biggners course.",
+        "price":99.99,
+        "instructor":"john Doe",
+        "isFeatured":true,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSS6zFihR7JwZTt7dLIblxIYrI_GHXuDNPng&s"
+
+    },
+    {
+        "id":5,
+        "title":"Guitar Fundemantals",
+        "slug":"guitar_fundemantals",
+        "description":"Learn the basics of playing Guitar with our coperhansive biggners course.",
+        "price":99.99,
+        "instructor":"john Doe",
+        "isFeatured":true,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpB1P_-WNTAjI7dsop2-jmEe5RwqYlBXxIZA&s"
+
+    }
+]
+}
